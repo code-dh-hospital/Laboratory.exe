@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0710.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407100-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407100-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407100-NasDHSolutions.json)
+## 3.24.0729.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32407290-NasDHSolutions.json)
+
+- ✨: Bổ sung chức năng cấu hình người thực hiện. ![image](https://github.com/user-attachments/assets/5d26e4b7-6c1f-4b8f-b0c6-01e39b81f98a). 
+- ✨: Bổ sung chức năng chọn người thực hiện tại các form trả kết quả. ![image](https://github.com/user-attachments/assets/42544f9f-dad6-47d8-b702-bf93e32b3967)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/540
+## [v.3.24.0710.0]()
 
 - 🐛: Sửa lỗi phiếu kết quả xét nghiệm in sai ngày thực hiện.
 - ☑: https://github.com/dh-hos/dhg.hospitallaboratory/issues/61
