@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0906.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409060-NasDHSolutions.json)
+## 3.24.0915.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FDHLaboratoryexe%2F32409150-NasDHSolutions.json)
+
+- 🐛: Sửa lỗi: ràng buộc thời gian chỉ định xét nghiệm luôn nhỏ hơn thời gian lấy mẫu.
+- 🐛: Sửa lỗi: không điều chỉnh được thời gian lấy mẫu đối với các ca xét nghiệm điều chỉnh.
+- ☑: https://github.com/dh-hos/dhg.hospitallaboratory/issues/63
+## [v.3.24.0906.0]()
 
 - ✨: Kiểm tra [thời gian đọc kết quả xét nghiệm] >= [thời gian lấy mẫu].
 - ✨: Cho phép điều chỉnh [thời gian lấy mẫu] tại form thực hiện xét nghiệm.
