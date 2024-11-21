@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1121.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411210-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Danh sách xét nghiệm bị double bệnh nhân (BV Cái răng).
+![image](https://github.com/user-attachments/assets/c5aaea34-a920-4784-a0c6-b7f06b0ea893)
+- ☑: https://github.com/dhhiswork/Loi/issues/22
+
 ## [v.3.24.1030.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32410301-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32410301-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32410301-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi khi xem kết quả xét nghiệm hiển thị nhiều lần (BV Phụ Sản). Nguyên nhân: TPH đổ kết quả với thời gian khác nhau của mỗi xét nghiệm (của cùng 1 lần chỉ định).
