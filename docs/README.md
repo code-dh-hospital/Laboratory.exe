@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1130.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411300-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chuyển bảng kê xét nghiệm sang mẫu tự thiết kế. Lưu ý: tài khoản đăng nhập có quyền Admin phân hệ sẽ có thêm chức năng `Thiết kế trang in`.
+![image](https://github.com/user-attachments/assets/0e7a0877-b925-49e3-91d9-744983d7ce6b)
+![image](https://github.com/user-attachments/assets/9c6e0bb9-246b-42cf-a246-e5ac4475ff55)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/24
+
 ## [v.3.24.1127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32411270-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form `Hủy kết quả`: Bổ sung chức năng chặn/cảnh báo khi người bệnh đã kết thúc hồ sơ theo tham số `thuchiencls_phieu01`.
