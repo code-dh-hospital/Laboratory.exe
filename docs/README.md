@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1204.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu mặc định `Bảng kê xét nghiệm` chưa nhóm được CLS theo loại CLS.
+![image](https://github.com/user-attachments/assets/05af59f1-5b29-4c89-b8e3-167ce836dc8b)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/24
+
 ## [v.3.24.1204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412040-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Thiết kế lại `Bảng kê xét nghiệm` giống mẫu cũ. Thay đổi `ngaylaymau` lấy từ `chidinhcls.giolaymau`.
