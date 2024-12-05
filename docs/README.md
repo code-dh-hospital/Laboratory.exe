@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.24.1205.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412051-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - mở khoá không xoá giờ kết thúc khám không cho thêm chi phí mới
+- ☑: https://github.com/dhhiswork/To_lap_trinh/issues/4
+
+- không hợp lệ > chặn
+![](https://i.imgur.com/L5X1fbw.png)
+- hợp lệ cho phép lưu
+![](https://i.imgur.com/Ctf36m3.png)
+
+## [v.3.24.1205.0]()
+- ✨: Yêu cầu - mở khoá không xoá giờ kết thúc khám không cho thêm chi phí mới
+- ☑: https://github.com/dhhiswork/To_lap_trinh/issues/4
+
+![](https://i.imgur.com/5SmILCZ.png)
+
+- Cho phép lưu khi thời gian trả kết quả không lớn hơn thời gian kết thúc khám
+![](https://i.imgur.com/v5Ctg87.png)
+
 ## [v.3.24.1204.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32412041-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: Mẫu mặc định `Bảng kê xét nghiệm` chưa nhóm được CLS theo loại CLS.
