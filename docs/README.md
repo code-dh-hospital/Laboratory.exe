@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0311.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503111-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chức năng ghi nhận dữ liệu phân luồng kết quả theo tham số `phanluong.ketqua`.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/109
+
 ## [v.3.25.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form [Giải phẫu bệnh Sinh thiết]: Bổ sung `ngày thực hiện` và `ngày kết quả`. Theo mô tả: [XETNGHIEM/Xet-nghiem-Giai-phau-benh-Sinh-Thiet.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XETNGHIEM/Xet-nghiem-Giai-phau-benh-Sinh-Thiet.md).
