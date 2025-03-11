@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503110-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Form [Giải phẫu bệnh Sinh thiết]: Bổ sung `ngày thực hiện` và `ngày kết quả`. Theo mô tả: [XETNGHIEM/Xet-nghiem-Giai-phau-benh-Sinh-Thiet.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XETNGHIEM/Xet-nghiem-Giai-phau-benh-Sinh-Thiet.md).
+![](https://i.imgur.com/5aj22HW.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/97
+
 ## [v.3.25.0304.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32503040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Hiển thị thêm thông tin tên CLS phụ vào danh sách xét nghiệm chỉ định tại form danh sách bệnh nhân thực hiện xét nghiệm.
 ![](https://i.imgur.com/GGGvBf5.png)
