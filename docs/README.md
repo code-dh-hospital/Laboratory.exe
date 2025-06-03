@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.0603.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Cập nhật thời gian chỉ định CLS chưa thực hiện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/178
+
+- Fix sai giá trị khi chỉnh giờ kết quả trên lưới
+- Tách bảng màu cho danh sách xét nghiệm
+![](https://live.staticflickr.com/65535/54564652476_e10016c0ee_b.jpg)
+
+- Bổ sung DH-LIS
+
+![](https://live.staticflickr.com/65535/54564994275_246abe6798_b.jpg)
+
 ## [v.3.25.0525.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32505250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32505250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32505250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Cập nhật thời gian chỉ định CLS chưa thực hiện
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/178
