@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0626.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506260-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Yêu cầu - Kết nối API với phần mềm xét nghiệm LIS, hiển thị phiếu kết quả từ phần mềm LIS lên phần mềm DHG.Hospital.
+![](https://lh3.googleusercontent.com/pw/AP1GczOJl14tGuZqERcW9V8xfHvFMWoaoLej3a6rzS83t8rFOoxvVPRCbn5_DUzEQhCu1HNy1TBQyLLGkJHrAyYABaRQnnrCQqXyEhidZ9r9eQ-TKuATEUYikhqWonKQtqnrCBnLnGddCEzDg_bxTaSx7j0s=w1653-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/332
+
 ## [v.3.25.0613.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32506131-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cột Triệu chứng sổ xét nghiệm PK Phương Nam.
