@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+- Cập nhật script thêm cột dmcls.inhieuchuan, dmcls.stthieuchuan, update tham số xn.sudungmauchuan theo Mô tả [Mau-Xet-Nghiem.md](https://i.dh-his.com/hdhiswork/YEUCAU/issues/60)
+- Chuyển sang sử dụng HOSO.KqXetNghiem khi in phiếu kết quả Xét nghiệm cho các mẫu cũ và mẫu mới theo TT32
+
+![](https://i.vgy.me/2vbZJB.png)
+![](https://i.vgy.me/F9PEah.png)
+![](https://i.vgy.me/9dFrDl.png)
+![](https://i.vgy.me/jbx18f.png)
+
 ## [v.3.25.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Labor xem kết quả xét nghiệm BV Hồng Dân #412
 	+ Nguyên nhân: tham số cks.url chưa cấu hình
