@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung Phiếu chỉ định và phiếu kết quả Sinh thiết, Tế bào tử cung tự thiết kế
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+- 📕: Bắt theo tham số tại Form kết quả Sinh thiết, Tế bào tử cung chuyển sang mẫu tự thiết kế
+
+[Clip Test](https://gofile.me/78TQg/n41bi6d1L)
+
 ## [v.3.25.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
