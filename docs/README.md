@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.25.0822.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+- Fix thông báo sai giờ lấy mẫu
+- Fix không hiển thị tên cán bộ XN và người thực hiện
+- Trả kết quả nhiều loại CLS khi chỉnh kết quả thì các loại khác mất người thực hiện và người đọc kết quả => do 2 lý do trên
+- Fix key còn hạn vẫn báo PHIÊN BẢN KHÔNG HỖ TRỢ
+- Fix không in đậm khi kết quả có check bất thường
+- Fix lấy sai ngày kết quả
+- Fix gán giá trị sai tên người ký
+
+![](https://i.vgy.me/3xPhms.png)
+
+![](https://i.vgy.me/K7KvwE.png)
+
+![](https://i.vgy.me/qPhyEp.png)
+
+![](https://i.vgy.me/GiDj1Q.png)
+
+![](https://i.vgy.me/H8QzC2.png)
+
+![](https://i.vgy.me/rcToAw.png)
+
 ## [v.3.25.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32507310-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung Phiếu chỉ định và phiếu kết quả Sinh thiết, Tế bào tử cung tự thiết kế
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
