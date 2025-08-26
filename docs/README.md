@@ -6,6 +6,38 @@
 
 #
 
+## [v.3.25.0826.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+-  Điều chỉnh hoàn thiện các trang in kết quả Xét nghiệm TT32
+
+- Huyết học 
+
+![](https://i.vgy.me/vRiv5l.png)
+
+- Đông cầm máu
+
+![](https://i.vgy.me/Q5YURt.png)
+
+- Nước dịch
+
+![](https://i.vgy.me/FpmyBK.png)
+
+- Hoá sinh máu
+
+![](https://i.vgy.me/t5a0ZH.png)
+
+- Nước tiểu
+
+![](https://i.vgy.me/Fiucft.png)
+
+- Vi sinh
+
+![](https://i.vgy.me/3W8kFS.png)
+
+![](https://i.vgy.me/GtL9ay.png)
+
 ## [v.3.25.0825.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32508250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - LABORATORY - Mẫu trả kết quả Xét nghiệm Tiêu đề tên cơ quan chủ quản, Tên BV, SĐT không lấy theo Key #467
 	
