@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Các module liên quan hoàn thiện Chữ ký số theo cách mới
+![](https://i.vgy.me/rpwi3W.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/436
+
 ## [v.3.25.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509080-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Kiểm lỗi không thực hiện được xét nghiệm đối với trường hợp Nội trú - cấp cứu nhưng vẫn cảnh báo đóng tiền. - TOLAPTRINH - dh-issue- #12
 - ✨:  ***Chỉnh lỗi khi lấy mẫu lại bắt kiểm tra tiền CLS đối với trường hợp cấp cứu..*** ![](https://live.staticflickr.com/65535/54772522936_4e3621b842_b.jpg) ![](https://live.staticflickr.com/65535/54773257414_2e6a5f3c49_b.jpg)
