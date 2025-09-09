@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.0909.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+- Chỉnh lại design mẫu Nước dịch
+
+![](https://i.vgy.me/9Gnf8K.png)
+
+![](https://i.vgy.me/yos8qA.png)
+
 ## [v.3.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509090-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Kiểm lỗi không thực hiện được xét nghiệm đối với trường hợp Nội trú - cấp cứu nhưng vẫn cảnh báo đóng tiền. - TOLAPTRINH - dh-issue- #12
 - ✨:  ***Chỉnh lỗi Xét nghiệm không cảnh báo chưa đóng tiền đối với Bệnh nhân ngoại trú BHYT có chỉ định BHYT không thanh và tham số `bhytthuchenhlech=1`.*** ![](https://live.staticflickr.com/65535/54775133431_8937d8a296_b.jpg)
