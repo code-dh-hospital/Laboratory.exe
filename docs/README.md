@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.25.0910.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509101-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Labolatory: Không cập nhật được trang thái lấy mẫu sau khi hủy lấy mẫu #484
+	- Cập nhật:
+		- Bỏ và lấy mẫu:
+		![](https://i.vgy.me/gbsved.png)
+		![](https://i.vgy.me/LTIBNq.png)
+
+		- Chọn lại ngày thực hiện:
+		![](https://i.vgy.me/o9C9lF.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/484
+<<<<<<< HEAD
+
+## [v.3.25.0910.0]()
+- 🐛: Lỗi - Labolatory: Không cập nhật được trang thái lấy mẫu sau khi hủy lấy mẫu #484
+	- Cập nhật:
+		- Bỏ và lấy mẫu:
+		![](https://i.vgy.me/gbsved.png)
+		![](https://i.vgy.me/LTIBNq.png)
+
+		- Chọn lại ngày thực hiện:
+		![](https://i.vgy.me/o9C9lF.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/484
+=======
+
 ## [v.3.25.0909.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
