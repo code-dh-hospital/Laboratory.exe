@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.25.0912.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-NasDHSolutions.json)</sup></sup></sub>
+-- 🐛: Bấm làm mới dữ liệu, sau đó tìm Tên BN -> bấm enter thì lọc được tên BN nhưng không load được CLS đã được chỉ định, nếu trong ds tìm được có nhiều tên BN, thì chọn qua chọn lại thì mới thấy được CLS
+	- Cập nhật:
+		![](https://i.vgy.me/uFTvTG.png)
+		![](https://i.vgy.me/xl6onZ.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/484
+<<<<<<< HEAD
+
+## [v.3.25.0912.0]()
+- 🐛: Bấm làm mới dữ liệu, sau đó tìm Tên BN -> bấm enter thì lọc được tên BN nhưng không load được CLS đã được chỉ định, nếu trong ds tìm được có nhiều tên BN, thì chọn qua chọn lại thì mới thấy được CLS
+	- Cập nhật:
+		![](https://i.vgy.me/uFTvTG.png)
+		![](https://i.vgy.me/xl6onZ.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/484
+=======
+
 ## [v.3.25.0910.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509102-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
