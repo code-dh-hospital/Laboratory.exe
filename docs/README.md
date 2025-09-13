@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0913.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp ký số EMR đối với các phiếu Xét nghiệm
+![](https://i.vgy.me/v4JJ0V.png)
+![](https://i.vgy.me/IX77SI.png)
+![](https://i.vgy.me/CdKiXE.png)
+![](https://i.vgy.me/pvEtus.png)
+![](https://i.vgy.me/Q86nsA.png)	
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.3.25.0912.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509121-NasDHSolutions.json)</sup></sup></sub>
 -- 🐛: Bấm làm mới dữ liệu, sau đó tìm Tên BN -> bấm enter thì lọc được tên BN nhưng không load được CLS đã được chỉ định, nếu trong ds tìm được có nhiều tên BN, thì chọn qua chọn lại thì mới thấy được CLS
 	- Cập nhật:
