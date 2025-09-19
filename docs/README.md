@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0919.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509191-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix truyền sai request.UserCode khi gọi ký số tại HOSO.BADTKyso.KySoEMR gây ra lỗi khi huỷ ký số
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/27
+
+![](https://i.vgy.me/tSvtAO.png)
+
 ## [v.3.25.0919.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509190-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi không xem kết quả được với Xét nghiệm Vi sinh
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/27
