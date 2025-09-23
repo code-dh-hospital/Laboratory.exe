@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Ô Môn: Báo cáo chi tiết lượt chỉ định theo XN báo CLS XN đờm chưa thực hiện không xem được kết quả #521
+	- Cập nhật:
+		![](https://i.vgy.me/DeBifi.png)
+
+	- 🐛: Lỗi - Laboratory: Không thực hiện được CLS miễn giảm 100% #515
+	- Cập nhật:
+		![](https://i.vgy.me/qfycfQ.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/521
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/515
+
 ## [v.3.25.0919.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32509192-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 - ✨: Fix lỗi - khi in ký số EMR thì lable ##{S1}##,##{S2}## đổi sang màu trắng nhưng khi in thường thì vẫn là màu đen
