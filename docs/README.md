@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1022.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510221-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix không ký số khi Xem kết quả xét nghiệm theo tham số xn.sudungmauchuan = 8 
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/584
+
+![](https://files.catbox.moe/ei6gjf.png)
+
 ## [v.3.25.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Laboratory Bảng kê xét nghiệm không hiển thị macls - tên cận lâm sàng, tên cls phụ (Ghi chú) - LOI - dh-issue- #583
 - 🐛:  ***Chỉnh lỗi không in được bảng kê.*** 
