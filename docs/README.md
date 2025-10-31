@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
+
+- 📗: Bổ sung cấu trúc theo mô tả
+- 📗: Mô tả : [CAU_HINH_PHIEUYC_PHIEUKQ_THEO_MA_LOAI_CLS.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/CAU_HINH_PHIEUYC_PHIEUKQ_THEO_MA_LOAI_CLS.md)
+
+![](https://files.catbox.moe/w5wgu7.png)
+
+![](https://files.catbox.moe/tbec6b.png)
+
 ## [v.3.25.1028.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510280-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Điều chỉnh ngày kết quả trên các sổ kết quả khớp với ngày kết quả của xuất XML4750/XML3176.
