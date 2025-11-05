@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật key theo private code
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-sidekick-2025-11-05-09h11p52.568.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-sidekick-2025-11-05-09h11p45.051.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-explorer-2025-11-05-09h11p36.230.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-explorer-2025-11-05-09h06p52.685.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-explorer-2025-11-05-09h06p22.830.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/05/DESKTOP-2FLMTI6-explorer-2025-11-05-08h09p43.535.png)
+
 ## [v.3.25.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32510310-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
