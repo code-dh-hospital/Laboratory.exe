@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1111.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory: Hiển thị màu danh sách bệnh nhân xét nghiệm
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/559
+- 📕: Bổ sung thêm thông tin dath để thay đổi trạng thái màu của danh sách bệnh nhân xét nghiệm trên Labor
+
+![](https://files.catbox.moe/e31as0.png)
+
 ## [v.3.25.1107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory: Giao diện hiển thị danh sách các chỉ định xét nghiệm
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/556
