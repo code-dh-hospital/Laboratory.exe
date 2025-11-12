@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory: Thao tác Lấy mẫu bắt theo tham số xn.sophuttoithieu
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/562
+- 📕: Bổ sung kiểm tra thêm số phút tối thiểu theo tham số bằng cách lấy ngày chỉ định lớn nhất của các xét nghiệm chọn lấy mẫu để kiểm tra với thời gian hiện tại của hệ thống.
+- 📕: Khi không hợp lệ thì sẽ Chặn hoặc Cảnh báo theo tham số xn.canhbaovuotthoigian
+
+![](https://files.catbox.moe/1ebewi.png)
+![](https://files.catbox.moe/dr2wuv.png)
+
 ## [v.3.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511120-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Không copy ID khi click Lấy mẫu như bản cũ
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/560
