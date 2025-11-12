@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1112.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511122-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix không ký số được SoftDeam 
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/560
+
+![](https://files.catbox.moe/vz6nhy.png)
+
+- 🐛: Fix sai logic kiểm tra số phút tối thiểu gây ra lỗi vẫn lấy mẫu được khi tham số xn.canhbaovuotthoigian = 0
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/562
+
+![](https://files.catbox.moe/pt9yr1.gif)
+
 ## [v.3.25.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511121-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory: Thao tác Lấy mẫu bắt theo tham số xn.sophuttoithieu
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/562
