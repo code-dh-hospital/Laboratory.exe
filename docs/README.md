@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511200-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi kết quả xét nghiệm không lấy được ngày kết quả.
+![](https://lh3.googleusercontent.com/pw/AP1GczMpGk5h7sSS6hopicouPtsW-qI0-74sKuTuu2sXOXJUAoSVaAAzYDCJy6RWyYjSMrvM7CLFaFCURjNzaHA70xXwHiH5own_BRRUVocZ16PckosXD9Q_BnjbDRoOlGvpLDdQYmPliIwRnUF9h-rnPmXx=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/627
+
 ## [v.3.25.1119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511190-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix phát sinh lỗi khi xem kết quả nếu tham số khác 8|9
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/626
