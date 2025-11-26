@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
+
+- Thêm QRCode cho phiếu kết quả xét nghiệm để View kết quả web
+- Lưu trữ file kết quả dạng pdf 
+
+![](https://files.catbox.moe/b2p7jt.png)
+
 ## [v.3.25.1124.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511241-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory Bổ sung para đối với mẫu kết quả KSK Hợp đồng (BV Cái răng)
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/577
