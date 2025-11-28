@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.1128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
+- 📕: Build lại file cài đặt 
+
+![](https://files.catbox.moe/yfljvo.png)
+
+
+- 🐛: Lỗi - Laboratory: Form xét nghiệm chưa hiển thị nút BADT - Hủy ký số
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/643
+
+![](https://files.catbox.moe/raynzs.png)
+
 ## [v.3.25.1128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
