@@ -6,6 +6,23 @@
 
 #
 
+## [v.3.25.1201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
+- 📕: Bổ sung QRCode xem kết quả CLS Online lên phiếu lấy mẫu
+
+![](https://files.catbox.moe/l3s1uz.png)
+
+---
+
+- ✨: Yêu cầu - Laboratory Mẫu kết quả xét nghiệm tự thiết kế in theo tên chỉ số xét nghiệm (BV Thạnh Trị)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/584
+
+- 📕: Bổ sung para tenchiso và tencls_uutien_tenchiso lên design mẫu kết quả Xét nghiệm
+
+![](https://files.catbox.moe/qhqz9v.png)
+![](https://files.catbox.moe/v0bbww.png)
+
 ## [v.3.25.1128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32511281-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
