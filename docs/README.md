@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.1210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory nhập kết quả đối với cls không check thực hiện (BV Cái Răng)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/555
+
+- 📗: Cập nhật cấu trúc thêm tham số theo mô tả [DANH_SACH_XET_NGHIEM_THUC_HIEN.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XETNGHIEM/DANH_SACH_XET_NGHIEM_THUC_HIEN.md)
+- 📕: Chỉnh lại điều kiện khi lấy danh sách xét nghiệm lên Form danh sách dựa vào tham số xn.danhsachxn
+
+![](https://files.catbox.moe/52gxdg.png)
+
+![](https://files.catbox.moe/o86xf7.png)
+
+![](https://files.catbox.moe/4idad2.png)
+
 ## [v.3.25.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32512090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
