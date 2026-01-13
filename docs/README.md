@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.26.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601130-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chức năng cập nhật: `Không sử dụng SELECT *`
+*. Các chức năng:
+   + Các form Cấu hình xét nghiệm.
+   + Form danh sách xét nghiệm: thực hiện, lấy mẫu, bỏ lấy mẫu.
+   + Form thực hiện xét nghiệm.
+   + Form thực hiện xét nghiệm sinh thiết.
+   + Form thực hiện xét nghiệm tế bào tử cung.
+   + Form thực hiện xét nghiệm Covid19.
+   + Form thực hiện xét nghiệm đờm.
+   + Các form tại menu quản lý kho xét nghiệm.
+
+*. Báo cáo:
+   + Sổ XN tế bào ngoại vi
+   + Sổ XN Vi sinh
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/101
+
 ## [v.3.26.0106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
