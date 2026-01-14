@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.26.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601141-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi 
+*. Cấu hình nước dịch: Nút đóng bị ẩn:
+![](https://lh3.googleusercontent.com/pw/AP1GczOXUajh3Js-MZkErUcssa2gfTpqaoiRJojMCcutfCV6MF4wU0f1rFMToaXwIUJKzPy5Wd7ZU-xNxVQBJ1tIc2S0Y2ouFfUzu7l6WTDTDSXwBx7wzhcSZLNgVfJRPhIJ5fdzs1JJJv1yY2o49S9bOIN5=w1312-h872-s-no-gm?authuser=0)
+*. Form thực hiện xét nghiệm sinh thiết: Khi lần đầu bấm vào form thực hiện sinh thiết thì có báo lỗi:
+![](https://lh3.googleusercontent.com/pw/AP1GczOt3WK2RWX1iWv4qHf-MMgfEOYwQkV28Cv3tyyLmgewZXR8Ddurqj_ftD2oxaBWPWf8sf4MUpB6XDRkLeQJa-rFNMFQxKhedtQiQWUx5nnoix90c_fuvQLHad3G5Pax3zD2C2FwFN_alosm8_q3e8yX=w1231-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMaVVWpmPOvl53bcQhY7g9kikiqyKlkXoM_gcnQJ1KuBsJklgiVHZs1EulyLcON20SKJyBiJ3ERLGqi6DAVWIgyLmfJaEOXTmn2G4VhmRoewUfmG2fXmYFUJMywENG7T7E8Nztfi_P8UnlqGfErRhmb=w679-h879-s-no-gm?authuser=0)
+*. Xuất điều về: Khi click vào nút Xuất điều về có lỗi:
+![](https://lh3.googleusercontent.com/pw/AP1GczNh7zsPvGpGRa0lJJDWj3em0rfC7UACv2-XCO8HGrBIStzcwhbFXZw3V9euHuMKRflS0oHvGw2G6qQZ6gEsv3mEPyn9sTTq6k3JGRd6RzaBJazow_GrPxdvlpjL5clnN50gr3HeXXC_78lb0Rf3RrbC=w1293-h872-s-no-gm?authuser=0)
+*. Định nghĩa danh mục: Có dư một dấu cách trong chữ nghĩ a: đây là font `Microsoft Sans Serif`, font mặc định của Windows nó hiển thị chữ `ĩ` hơi giãn tí, chứ `không phải dư dấu cách`.
+*. Báo cáo: Sổ XN tế bào ngoại vi: Không có dữ liệu:
+Nguyên nhân: do cấu hình mã xét nghiệm không đúng/không có trong danh mục: Nên sổ không load được dữ liệu.
+![](https://lh3.googleusercontent.com/pw/AP1GczPLwRYsMecg6MyDeKaERTa1DyOFIr6F3YNDhWSRCTKbMUCCYog1zRpak-fEsoZnOCWsXBcvJTWwO_DZXHiUj2tEvNBPKzz7k1_UOhHi-ySD0bFbFkAprbu9pIMyCiKprmlHKykP5WnG67lkpMVhwcPy=w1509-h879-s-no-gm?authuser=0)
+*. Lỗi khi đăng nhập (dữ liệu emr_dktp):
+![](https://lh3.googleusercontent.com/pw/AP1GczMpDCIpCtqfjx8a-vWmylV5LKVz7kAEcAqEQ5lLOwsAuji5FmnSNGAyYEHPKRqcauZBO2iADQtvxSJ6Iaj0nG3c96WMCclUb2P-JuaCVgJaFzoCpRVqWkefBS5nUDYtnfJ0rraoT9GMPnGTvY1Kg-Xv=w1206-h872-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/101
+
 ## [v.3.26.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32601140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Laboratory : bệnh nhân đối tượng Thu phí đã đóng tiền nhưng khi bấm nút Lấy mẫu báo Bệnh nhân chưa đóng tiền
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/691
