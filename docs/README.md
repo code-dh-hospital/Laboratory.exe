@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0203.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory Bổ sung cột lọc theo tài khoản chỉ định cận lâm sàng trên Sổ xét nghiệm
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/670
+- 📕: Lấy thêm thông tin tài khoản chỉ định để thể hiện lên lưới cho Sổ xét nghiệm
+- 📕: Bổ sung điều kiện cải thiện tốc độ xuất báo cáo Sổ xét nghiệm ĐKTP CT
+
+![](https://files.catbox.moe/6wrjbk.png)
+
 ## [v.3.26.0202.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin bổ sung chức năng Ngưng sủ dụng chữ ký số và thêm nút Xóa Chữ ký số
 - Cập nhật lại chức năng ký số, khi kiểm tra chứng thư số, chỉ kiểm tra chứng thư số có `current.dmcts.xoa = 0`
