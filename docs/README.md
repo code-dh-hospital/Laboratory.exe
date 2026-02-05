@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu phiếu kết quả tự thiết kế parameters dvtuoi, ngaysinh chưa load được nội dung.
+![](https://lh3.googleusercontent.com/pw/AP1GczPw_8tNL23yAUeY4Wz2wIR0i7lrtn5Hjw5Y_JG913tsJK1SnFvE_MOBkKKwMJmueMs8DBuNXQYKX9X_Ga0QsoDNGKqplcwXciWfnOtNat0M7HQIrBBetP3jEpjTe7V7V_47c5vPetPov75rr1ZJ0JTK=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/732
+
 ## [v.3.26.0203.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory Bổ sung cột lọc theo tài khoản chỉ định cận lâm sàng trên Sổ xét nghiệm
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/670
