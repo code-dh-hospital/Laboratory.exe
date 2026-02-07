@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0207.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602070-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Không cảnh báo đóng tiền khi thực hiện cls không thanh bhyt.
+![](https://lh3.googleusercontent.com/pw/AP1GczNfMal0vE0hITkFl4un3DVzsMPNhqk5Q2CQsd8joc6fnFhRskD615Gk8at1rsT3scAosuwbdi3HlqPuvv_r5hj2vbVJDfrYSVGLGPhc31pNsenGPQDGoT0Q1a39bM7XqNg2ftbIsS7vkaU0wMIdWKqM=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/738
+
 ## [v.3.26.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32602050-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi mẫu phiếu kết quả tự thiết kế parameters dvtuoi, ngaysinh chưa load được nội dung.
