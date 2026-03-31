@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Laboratory Sổ xét nghiệm ghi nhận sai BS đọc kết quả và tài khoản chỉ định
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/804
+
+![](https://files.catbox.moe/13pbla.png)
+
 ## [v.3.26.0302.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603021-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Laboratory Thông tin tuổi và tên đối tượng bị mất khi chuyển CLS từ khám ngoại trú vào Bệnh án ngoại trú theo ngày
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/764
