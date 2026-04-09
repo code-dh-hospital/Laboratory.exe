@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Fix lỗi Form giao diện chính hiển thị các nút bị che khuất.
+![](https://lh3.googleusercontent.com/pw/AP1GczN3ovizx_4a7oRnj6DiS92W5pfHjPKIVj82znNOrsYu4p76o8-xLX78GaMugsiPjIXwk9NrUaDhxcDIDqSOJ4ZPYzWWXdSKgqkAzI0sGdsO85KS45tiLeYEzsmbRy9VeMOT1XybVukQhbfjqgxzdUJA=w1654-h879-s-no-gm?authuser=0)
+Ngoài ra có thể sử dụng phím tắt F6 để ẩn/hiện cụm điều khiển gọi số.
+![](https://lh3.googleusercontent.com/pw/AP1GczOota4WMBzg2ToMGWIaB7FtPHTQ0AmVj5A9JunGme9woxrGOrZqr1IVdTqkeUqCDbUX0NjN3Vm3pb1DjNangHy9FOuTBCL3t1TSWH_HHctC0tpoHLbYvOBVsjpl9KCEfaNs3hlKwXRsRkA2uWRlNK0d=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/810#issuecomment-25970
+
 ## [v.3.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32603310-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Laboratory Sổ xét nghiệm ghi nhận sai BS đọc kết quả và tài khoản chỉ định
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/804
