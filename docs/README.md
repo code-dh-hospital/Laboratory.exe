@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0424.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604245-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604245-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604245-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Labolatory - Diagose: Up load file lên bucket không được- Lỗi
+- 🐛:  ***Chỉnh lỗi  không upload được các file pdf (do Google yêu cầu phải billing bucket). Xử lý chuyển qua hệ thống VPS của DH (https://pocketbasedh.dpdns.org).***
+- 🐛: Cài đặt `pocketbase` trên VPS, tạo tài khoản và tích hợp vào code để lưu trữ các pdf từ phía Khách hàng. Triển khai tạm các thông tin cố định và theo dõi hệ thống, khi ổn định sẽ tiến hành cập nhật các thông số cấu hình để thực hiện đa dạng Khách hàng.
+![](https://images-worker.tlt43.workers.dev/i/019db94d-7de7-7da8-9d67-007098d1ec50)
+![](https://images-worker.tlt24.workers.dev/i/019db94e-3a1b-7553-b212-0b5a420ba5a9)
+- []: Cập nhật mô tả [MO_TA_XEM_KET_QUA_CLS_ONLINE_QRCODE.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/KET%20QUA%20CLS%20ONLINE/MO_TA_XEM_KET_QUA_CLS_ONLINE_QRCODE.md)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/827
+
 ## [v.3.26.0424.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604244-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604244-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604244-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Labolatory - Diagose: Up load file lên bucket không được- Lỗi
 - 🐛:  ***Chỉnh lỗi  không upload được các file pdf (do Google yêu cầu phải billing bucket). Xử lý chuyển qua hệ thống VPS của DH (https://pocketbasedh.dpdns.org).***
