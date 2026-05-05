@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Labolatory - Diagose: Up load file lên bucket không được- Lỗi
+- 🐛:  ***Chỉnh lỗi  không upload được các file pdf lên hệ thống VPS của DH (https://pocketbasedh.dpdns.org).***
+- ☑: Nguyên nhân Token hết hạn, bổ sung hàm lấy token mới khi hết hạn.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/827
+
 ## [v.3.26.0424.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604246-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604246-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32604246-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Labolatory - Diagose: Up load file lên bucket không được- Lỗi
 - 🐛:  ***Chỉnh lỗi  không upload được các file pdf (do Google yêu cầu phải billing bucket). Xử lý chuyển qua hệ thống VPS của DH (https://pocketbasedh.dpdns.org).***
