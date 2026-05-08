@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0508.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung kết quả CLS có thêm chữ ký số bác sĩ chỉ định khi hiển thị phiếu kết quả có ký số. Cập nhật thêm chức năng upload file PDF kết quả xét nghiệm.
+	- Cấu hình mã nhân viên tại vùng chữ ký số của bác sĩ chỉ định: đưa para manv_chidinh vào vùng `<<SIGN:{{[Parameters.manv_chidinh]}}>>` như hình:
+	![](https://lh3.googleusercontent.com/pw/AP1GczOYMQQ8k-YJW8OMBmsqu0SEb3v5n8Lcc1Awv3d1Ejbd4xmkWUKWaBlJJpFV253PZEac4vz8WyWq2nsoYrJQMT7Jwe_yi-HPEJy8LldiL_tdx2u_aYducfeTTS1-YkY3XWOzvxUK9Arc0NC4JQvVUipL=w1270-h879-s-no-gm?authuser=0)
+	- Kết quả:
+	![](https://lh3.googleusercontent.com/pw/AP1GczP6xDuSP-sS8A3b4bBXX-GPKDTIvSKDuKsWXwnfKD92Dkf30YCNXm_5XS0yeJe6xVpREYtVB6NQxfRQ9I6fd6V0rkkLv99lkRBNXow8tJmsP6I4zsPXWhKaz_Pq4YjiGijqzGr4BDeVEFrCfuc6OuSr=w661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/739#issuecomment-27369
+
 ## [v.3.26.0507.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605070-NasDHSolutions.json)</sup></sup></sub>
 
 
