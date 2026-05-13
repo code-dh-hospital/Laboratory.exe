@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: 
+	- Mẫu không chuẩn không in được chữ ký số bác sĩ đọc kết quả và Mẫu chuẩn tt32 không in được chữ ký số
+	![](https://lh3.googleusercontent.com/pw/AP1GczPS-7VKIrBnOfBYCpAwpuljbvlgBGJNG_v_lB_G6xlG2-GCBxiLkc4goi6DYsToNzVacZykdtE6YDXnJi7duxsgXuiH2b6Rpm53ZNw7HrTatKQJvkZRp-RIXzQ_CUjIow9N2_okYNo5aAswGuFQBsVL=w1661-h879-s-no-gm?authuser=0)
+	- Khi tài khoản chỉ định hoặc tài khoản đọc kết quả không có cấu hình chữ ký số thì phần mềm báo lỗi -> đề xuất hiện cảnh báo tài khoản chỉ đinh hoặc tài khoản đọc kết quả không có ký số và hiện trang in thiếu chữ ký số đó không hiện thông báo lỗi code:
+	![](https://lh3.googleusercontent.com/pw/AP1GczNT1pHQjusRR_IHwm-PfQKuwLVS3Xto2-au2PvS90CEeA54vgLrBy9pvcY_9sY8gUvHaHj8YiHifZBkmohj6qsuhydWNxJKHoasWWKURyj0JqTu0SRnW859O8rbnkRRMrDHrymfRQFCfvfDZvlpnbCU=w1654-h879-s-no-gm?authuser=0)
+	![](https://lh3.googleusercontent.com/pw/AP1GczOjlqNyrk0ODme-zQgkXPQbE3oswvbj73RzoTSFOjbzm6Cv406okPiv2_rC44KI_U_g6pNtQyrg4GCQGFumv2KIvfDQzAMGtypPzPpSE5YOWD6YrjyJj7tCP4Bixcse6Mg4us8i_LWVhdo8ZADGiF3g=w1668-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/739#issuecomment-27653
+
 ## [v.3.26.0508.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung kết quả CLS có thêm chữ ký số bác sĩ chỉ định khi hiển thị phiếu kết quả có ký số. Cập nhật thêm chức năng upload file PDF kết quả xét nghiệm.
