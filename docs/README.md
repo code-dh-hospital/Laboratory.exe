@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0513.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605131-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chặn khi lưu kết quả nếu không nhập mã máy thực hiện theo mô tả [Quan-tri-Admin/BO_SUNG_THONG_TIN_NHAP_MA_MAY_PTTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/BO_SUNG_THONG_TIN_NHAP_MA_MAY_PTTT.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczP_F1EdXKbBq2slVjF83WArMbyfLodYOYiZR3YCM0DWJTdK4owUhjVCoHJmpm74GqYifhmaVbPk1qR4qZfN-i0h5TNr4cT8RldaRsB-CoE2GMpUXA-Ge7T3V1N2zRfJhqo_zhF8FsnQwE9gPvgBvSb3=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/767#issuecomment-27664
+
 ## [v.3.26.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605130-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: 
