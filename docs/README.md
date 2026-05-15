@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605150-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi:
+	- Lỗi trả kết quả XN:
+	![](https://lh3.googleusercontent.com/pw/AP1GczMMBRtUcpItym_96Mh9HGQoroxv2UVifcHQv5c_Z5luPnHgByZnNo-d0B59E-pkkj1yBkyAfNnXfLDQBzAxIJkCBq88W35StOwMSzxGNXpKgkzCTEoc0d2JTltg1k-zLwf2Ufa8VAvjITcXDFHs9UcR=w1654-h879-s-no-gm?authuser=0)
+	- Các mẫu XN chuẩn riêng khi Tài khoản không có cấu hình ký số thì không hiện cảnh báo tài khoản nào không có cấu hình ký số và hiện trang in thường -> Có cảnh báo tài khoản nào mã+tên không có ký số, Hiện trang in ký số có chữ ký của những tài khoản có chữ ký số:
+	![](https://lh3.googleusercontent.com/pw/AP1GczMEGrdwCP_tqodJIOtxJf32bNQjsn2SHZp7OTXkTTcHK6Pg0csOHPbbcws6Gth4lyzu0Fh-YQfn5_2ocvEhmaTyhXpdeGQkrF6IraKTmf6uP-IiQfUOJYAWw8Ck0pQn5-LHWvHcTAEbIx-j_sutqLwj=w1654-h879-s-no-gm?authuser=0)
+	- Mẫu XN chung khi tài khoản không có chữ ký số thì có cảnh báo mã nhân viên không có chữ ký số và hiện trang in dang ký số -> Đề nghị thêm tên nhân viên sau mã nhân viên trên cảnh báo:
+	![](https://lh3.googleusercontent.com/pw/AP1GczM0op5UdpUJbG2c_oIweHtZdHl-F1wFNJd70uibD6jBsIjm9frgl38YK4ua8SSDV8lCHF9g3PUXeK6wIs5uRiRYI7XDaGShYziYttX4Ow7qniRRfOrfV2MURU7N39SvC04NM-aZxjg6z1a7_nRIrBRK=w635-h150-s-no-gm?authuser=0)
+	- Các Mẫu XN chuẩn riêng mất tiêu đề mẫu ở tất cả các mẫu:
+	![](https://lh3.googleusercontent.com/pw/AP1GczOlIZi-nqdMImXf__FEzxUDiM8XMHfQbvpMNAXJEv6F8_4a-UHfu-Roxk1s94BA9Q0zsJfnDnPXY-pbcbxnLfumRbxVC6Z0zkOuhMpMkOUpBMQy54iG5H0W5h0Xzi7xOjD-8tNEaybUcROlq7xjM6vY=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/739#issuecomment-27888
+
 ## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi thao tác Lưu kết quả xét nghiệm.
