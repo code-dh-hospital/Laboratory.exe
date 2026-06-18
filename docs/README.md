@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606180-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi không load được có xét nghiệm gửi nơi khác để trả kết quả khi tham số `xn.danhsachxn = 1`
+![](https://lh3.googleusercontent.com/pw/AP1GczMB_jda8JOQViMyI60adMvKByDFXtUzYnX_PSFvLBU8aMv9ORedjtu1afpW1OeriD7GhtR67Rc5IGusKyclbnIz8JGvNsyjGOxZRiSshpSFABkqjedmz56Eg2Csv5bnsTGH8aEEl03hqZe25oO9KQwN=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/893#issuecomment-29641
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/555
+
 ## [v.3.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606120-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Lấy danh mục mã máy theo mô tả [Quan-tri-Admin/Danh-muc-Ma-may.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Danh-muc-Ma-may.md).
