@@ -6,6 +6,65 @@
 
 #
 
+## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện xét nghiệm Sinh thiết/Tế bào tử cung/Đờm.
+![](https://lh3.googleusercontent.com/pw/AP1GczMiqFvU956XSERYtSZKNeJtIvER8dVr7K84SiWdoCcnIUbbp4Eatuk3vSNKWokIultCHGGhBGvmIhl__o96QhOOx5ZRTJJXKwDwTLF4zVINqj4AO8iTyLxj_lLrrxPLiHqvBwMi6yQA86Lc06_ZJ24o=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNLiMEDGBn_B8CuDTZNJ_NUycKIx_SdiTQtKB8L_om7Bhd-Oh_KnnqViz3KUswi5N51FFp-1LnSCiLaA5I30UC_5_A9g6Wfjo9LI2OvqKD-E3ddY1T9SPELgo1MOYfS8j_PUxJcOpERR0woKr5BFXzC=w1653-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/706#issuecomment-30270
+
+## [v.3.26.0707.1]()
+- ✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
+        - Laboratory:
+
+		- Tham số: dutru.tonkho = 0
+
+		Dự trù hóa chất:
+
+		![](https://i.vgy.me/911jB3.png)
+
+		Dự trù vật tư:
+
+		![](https://i.vgy.me/5aY4p4.png)
+
+		- Tham số: dutru.tonkho = 1
+
+		Dự trù hóa chất:
+		![](https://i.vgy.me/nuaTSu.png)
+
+		Dự trù vật tư:
+		![](https://i.vgy.me/pTlSio.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/820
+<<<<<<< HEAD
+
+## [v.3.26.0707.0]()
+- ✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
+        - Laboratory:
+
+		- Tham số: dutru.tonkho = 0
+
+		Dự trù hóa chất:
+
+		![](https://i.vgy.me/911jB3.png)
+
+		Dự trù vật tư:
+
+		![](https://i.vgy.me/5aY4p4.png)
+
+		- Tham số: dutru.tonkho = 1
+
+		Dự trù hóa chất:
+		![](https://i.vgy.me/nuaTSu.png)
+
+		Dự trù vật tư:
+		![](https://i.vgy.me/pTlSio.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/820
+=======
+
 ## [v.3.26.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32606240-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cải tiến hàm `current.fn_check_sudung()` theo mô tả [Quan-tri-Admin/Danh-muc-Ma-may.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Danh-muc-Ma-may.md) áp dụng cho mã máy.
