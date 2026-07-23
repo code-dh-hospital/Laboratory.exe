@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0723.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
+- ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/851#issuecomment-31292
+
+## [v.3.26.0723.1]()
+- ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
+- ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/851#issuecomment-31292
+
+## [v.3.26.0723.0]()
+- ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
+- ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/851#issuecomment-31292
+
 ## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện xét nghiệm Sinh thiết/Tế bào tử cung/Đờm.
