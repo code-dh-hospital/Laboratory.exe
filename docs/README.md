@@ -6,6 +6,83 @@
 
 #
 
+## [v.3.26.0727.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607272-NasDHSolutions.json)</sup></sup></sub>
+✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
+        - Laboratory:
+
+		- Tham số: dutru.tonkho = 0
+
+		Dự trù hóa chất:
+
+		![](https://i.vgy.me/911jB3.png)
+
+		Dự trù vật tư:
+
+		![](https://i.vgy.me/5aY4p4.png)
+
+		- Tham số: dutru.tonkho = 1
+
+		Dự trù hóa chất:
+		![](https://i.vgy.me/nuaTSu.png)
+
+		Dự trù vật tư:
+		![](https://i.vgy.me/pTlSio.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/820
+
+## [v.3.26.0727.1]()
+✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
+        - Laboratory:
+
+		- Tham số: dutru.tonkho = 0
+
+		Dự trù hóa chất:
+
+		![](https://i.vgy.me/911jB3.png)
+
+		Dự trù vật tư:
+
+		![](https://i.vgy.me/5aY4p4.png)
+
+		- Tham số: dutru.tonkho = 1
+
+		Dự trù hóa chất:
+		![](https://i.vgy.me/nuaTSu.png)
+
+		Dự trù vật tư:
+		![](https://i.vgy.me/pTlSio.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/820
+<<<<<<< HEAD
+
+## [v.3.26.0727.0]()
+- ✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
+        - Laboratory:
+
+		- Tham số: dutru.tonkho = 0
+
+		Dự trù hóa chất:
+
+		![](https://i.vgy.me/911jB3.png)
+
+		Dự trù vật tư:
+
+		![](https://i.vgy.me/5aY4p4.png)
+
+		- Tham số: dutru.tonkho = 1
+
+		Dự trù hóa chất:
+		![](https://i.vgy.me/nuaTSu.png)
+
+		Dự trù vật tư:
+		![](https://i.vgy.me/pTlSio.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/820
+=======
+
 ## [v.3.26.0723.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32607232-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
 - ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
