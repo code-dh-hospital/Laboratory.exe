@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.26.0904.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609041-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory cải thiện tốc độ load danh sách bệnh nhân thực hiện xét nghiệm (BV Da liễu) #871
+
+	+ Cập nhật: cải thiện tốc độ khi load danh sách bệnh nhận thực hiện xét nghiệm
+
+		![](https://i.ibb.co/1JKKdQs7/Degbug-Laboratory-Duc-Zz3-M98-R.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/871
+
+<<<<<<< HEAD
+
+## [v.3.26.0904.0]()
+- ✨: Yêu cầu - Laboratory cải thiện tốc độ load danh sách bệnh nhân thực hiện xét nghiệm (BV Da liễu) #871
+
+	+ Cập nhật: cải thiện tốc độ khi load danh sách bệnh nhận thực hiện xét nghiệm
+
+		![](https://i.ibb.co/1JKKdQs7/Degbug-Laboratory-Duc-Zz3-M98-R.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/871
+
+=======
+
 ## [v.3.26.0903.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Thực hiện theo mô tả [THAM_SO_HE_THONG
   /Hau-mota-them-thamso-cauhinh_phong_cls.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THAM_SO_HE_THONG/Hau-mota-them-thamso-cauhinh_phong_cls.md)
