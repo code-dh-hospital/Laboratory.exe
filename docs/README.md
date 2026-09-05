@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.Laboratory & Statistics] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmLaboratory_Load` và tự động nạp `background_dh` qua `Utilities.Forms.FrmHome`, tự động đổi tiêu đề thành `DH.HIS Laboratory`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["help"]) khi `DHHIS_BANQUYEN=1`.
+- 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34
+- 📗: Độc lập 100% CSDL PostgreSQL, không dùng `current.system`.
+- 📕: Thực hiện theo mô tả [Bổ sung key chức năng riêng quản lý nâng cấp version DHG.Hospital thành DH.HIS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/DUAN34_NangCap_Version_DHHIS_BanQuyen.md).
+![](https://images-worker.tlt05.workers.dev/i/01a06f05-279b-728d-ba2f-ef37c82d68cc)
+
 ## [v.3.26.0904.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609042-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Laboratory & Statistics] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmLaboratory_Load` và tự động nạp `background_dh` qua `Utilities.Forms.FrmHome`, tự động đổi tiêu đề thành `DH.HIS Laboratory`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["trogiup"]) khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
