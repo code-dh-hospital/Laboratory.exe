@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp cấu hình BuildZip|AnyCPU (xuất bin\BuildZip) + Pre/PostBuildEvent gọi visualstudio-external-tool.js; nhận Resources/DH.ModuleClient.exe bản mới tự động qua syncModuleClientExe khi build DH.ModuleClientV2
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/845
+- 📕: Phân hệ luôn embed đúng bản DH.ModuleClient.exe mới nhất, thống nhất nguồn tải cập nhật remote/local
+- Thực hiện theo mô tả [Mô tả bổ sung cấu hình AppUpdate Postgres App tách biệt DB HIS chính](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Mo-ta-bo-sung-cau-hinh-appupdate-postgres-app-tru-db-his-chinh.md)
+
+![](https://images-worker.tlt11.workers.dev/i/01a08e79-8ad8-7ce3-944c-604c313576cc)
+![](https://images-worker.tlt10.workers.dev/i/01a08e79-d157-7b05-94ff-19611903d50b)
+![](https://images-worker.tlt02.workers.dev/i/01a08f3b-912b-7723-8dc2-6350fb2e951c)
+
+> ⚠️ **Lộ trình triển khai an toàn:** bản client cũ không biết CSDL remote (chỉ đọc `{DB}_app` local). Phải publish bản mới bằng **cách cũ** cho mọi trạm xong, rồi mới tạo/bật remote (`EOptionAdmin.Enabled = true`), sau đó mới publish tiếp lên remote. Không bật remote khi còn trạm cũ.
+
 ## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [DH.Laboratory & Statistics] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmLaboratory_Load` và tự động nạp `background_dh` qua `Utilities.Forms.FrmHome`, tự động đổi tiêu đề thành `DH.HIS Laboratory`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["help"]) khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
