@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0928.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609281-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Laboratory] Đồng bộ và build lại phân hệ Laboratory (DH.Laboratory.exe) nhận định chuẩn thứ tự số nguyên cố định của LoaiPhieuKySoEnum từ OTH.Entity và DH.XML4750 bản mới, khắc phục triệt để lỗi ký số EMR kết quả xét nghiệm bị lệch mã loại phiếu (fileDocTypeCode).
+- 🐛: [Laboratory] Sửa lỗi phiếu kết quả xét nghiệm (Vi sinh, Nước tiểu, Huyết học, Sinh hóa...) khi ký số EMR bị gán nhầm mã phiếu tài liệu cấu hình (Vi sinh bị nhầm thành Nước tiểu EMR30003 do lệch enum index). Sau khi cập nhật, phiếu Vi sinh map chính xác mã cấu hình EMR_XN_VISINH = EMR30004.
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/160
+- 📗: CSDL emr_omon (TTYT KV Ô Môn) - bảng badt_dhs.signs, các key cấu hình EMR xét nghiệm trong file .env (EMR_XN_VISINH, EMR_XN_NUOCTIEU...).
+- 📕: Vào Xét nghiệm -> Chọn bệnh nhân (MaBN: 2024041617, MaBA: 2025010898) -> Thực hiện xét nghiệm Vi sinh -> Bấm [BADT - Ký số EMR]: hệ thống ký số thành công và lưu vết vào badt_dhs.signs với đúng mã phiếu filedoctypecode = 'EMR30004'.
+- Thực hiện theo mô tả [ĐỊNH CHUẨN THỨ TỰ LOAIPHIEUKYSOENUM KHẮC PHỤC SAI MÃ KÝ SỐ EMR](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/Mo-ta-Dinh-chuan-thu-tu-LoaiPhieuKySoEnum-khac-phuc-sai-ma-ky-so.md)
+![](https://i.vgy.me/aNqAWt.png)
+
 ## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Mẫu in phiếu trả kết quả xét nghiệm hỗ trợ bổ sung thông tin Đơn vị đo (`don_vi_do`, `dvt_donvido_dvt_dvt_emr`, `dvt_dvt_emr_donvido_dvt`) và Mã máy Bộ Y Tế (`mamay_byt`, `tenmay`) thông qua tầng in ấn `DH.XML4750`.
 - 🐛: Khắc phục tình trạng phiếu xét nghiệm XtraReport chỉ hiển thị cột `dvt` mang chữ "Lần" và không có mã máy BYT khi đối soát kỹ thuật.
