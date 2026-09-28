@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0928.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung nút [Bỏ TV] trên danh sách bệnh nhân Xét nghiệm và Chẩn đoán hình ảnh; hỗ trợ nạp nhãn nút động từ cấu hình Monitor CLS (coderun monitor_cls_tv_option)
+- 🐛: Sửa lỗi nút [Bỏ TV] bị ẩn do điều kiện cứng theo mã bệnh viện; sửa lỗi không chuyển trạng thái "Đang thực hiện" trên Monitor Tivi khi lấy mẫu/chẩn đoán; sửa lỗi trả kết quả 1 dịch vụ đã tự xóa bệnh nhân khỏi Tivi; sửa lỗi vỡ form trả kết quả CT Scanner (FrmChupCT) do lệch DPI
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/938
+- 📗: current.pscls_lcd (trangthai, tong_cls, hoantat_cls), current.chidinhcls (dath), current.cauhinh_phong_cls
+- 📕: 1. Tại FrmDanhSach (Lab & Diagnose): Luôn hiển thị nút [Bỏ TV] và nạp nhãn động từ cấu hình coderun; khi lấy mẫu đủ tất cả dịch vụ hoặc bấm Chẩn đoán/Gửi PACS tự động kích hoạt trạng thái "Đang thực hiện".
+  2. Tại FrmXetNghiem, FrmChupCT, FrmXQuang, FrmSieuAmNoiSoi, FrmSieuAmTim*: Bổ sung kiểm tra đa dịch vụ CheckAndClearDanhSachKhiTraKQ khi lưu kết quả; chỉ xóa khỏi màn hình Tivi khi tất cả dịch vụ của bệnh nhân thuộc phòng đã có kết quả.
+  3. Khôi phục AutoScaleDimensions chuẩn 6F, 13F cho FrmChupCT.Designer.cs, căn chỉnh lại toolbar và nút [Lưu].
+  - Thực hiện theo mô tả [Cập nhật hiển thị danh sách bệnh nhân tại phòng Xét nghiệm và Chẩn đoán hình ảnh trên Monitor Tivi](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Mo-ta-cap-nhat-hien-thi-danh-sach-benh-nhan-phong-xet-nghiem-va-cdha-tren-monitor-tivi.md)
+  ![](https://images-worker.tlt43.workers.dev/i/01a0e6b2-a8bc-7f24-80e2-cc7bb37abcd6)
+![](https://images-worker.tlt44.workers.dev/i/01a0e6b2-d4a8-7a89-a2e5-e13c007f386d)
+![](https://images-worker.tlt31.workers.dev/i/01a0e6cd-2ed7-708c-ab96-9cd88f7d7e62)
+
 ## [v.3.26.0928.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609282-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Utilities.Executable & DH.BLLCLS, DH.DALCLS, HosPre.DataAccess] Bổ sung nút Bỏ TV trên giao diện Xét nghiệm và mở rộng hiển thị trên Chẩn đoán hình ảnh theo cauhinh_phong_cls; cập nhật trạng thái Đang thực hiện khi lấy mẫu đủ hoặc mở chẩn đoán/gửi PACS; kiểm tra hoàn tất toàn bộ dịch vụ của phòng trước khi xóa dòng trên Tivi
 - 🐛: Khắc phục tình trạng mất dòng bệnh nhân trên Tivi khi mới trả 1 kết quả dù còn nhiều chỉ định tại phòng; bổ sung công cụ hủy Tivi khi bệnh nhân bỏ về
