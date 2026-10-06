@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN=1: nạp thư viện LibraryApp mới, tự động đổi hình nền đăng nhập FrmDangNhap theo tông màu y tế background_dh, chuẩn hóa thanh trạng thái Status Bar 4 ô với biểu tượng logoDH và gán tiêu đề Form Home DH.HIS Laboratory.
+- 🐛: Khắc phục lỗi kiểm tra kết nối ClsConnection.v_conn trong FrmDangNhap, đảm bảo phân hệ khởi chạy an toàn khi kiểm thử hoặc ngoại tuyến.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34#issuecomment-46526 (hdhiswork/DUAN#34)
+- 📗: Không thay đổi cấu trúc bảng hay dữ liệu PostgreSQL, cơ chế bản quyền chạy độc lập hoàn toàn với CSDL.
+- 📕: Khi biến môi trường DHHIS_BANQUYEN=1:
+  1. Giao diện đăng nhập FrmDangNhap chuyển sang hình nền nhận diện DH.HIS, loại bỏ thương hiệu cũ DHG Pharma.
+  2. Tiêu đề Form Home chuyển thành DH.HIS Laboratory.
+  3. Thanh trạng thái Status Bar chuẩn hóa 4 ô: Tháng làm việc: MM/YYYY | Tài khoản đăng nhập: Fullname | [logoDH] Bản quyền © 2020-2026 thuộc về DH | Phiên bản: <version>.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmdangnhap-giaodien-default.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmdangnhap-giaodien-dhhis.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmhome-tieude-12phanhe.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-statusbar-thanhtrangthai-dhhis.png)
+
 ## [v.3.26.0928.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32609283-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung nút [Bỏ TV] trên danh sách bệnh nhân Xét nghiệm và Chẩn đoán hình ảnh; hỗ trợ nạp nhãn nút động từ cấu hình Monitor CLS (coderun monitor_cls_tv_option)
 - 🐛: Sửa lỗi nút [Bỏ TV] bị ẩn do điều kiện cứng theo mã bệnh viện; sửa lỗi không chuyển trạng thái "Đang thực hiện" trên Monitor Tivi khi lấy mẫu/chẩn đoán; sửa lỗi trả kết quả 1 dịch vụ đã tự xóa bệnh nhân khỏi Tivi; sửa lỗi vỡ form trả kết quả CT Scanner (FrmChupCT) do lệch DPI
