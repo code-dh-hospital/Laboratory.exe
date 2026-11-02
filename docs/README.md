@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.1102.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [Utilities.Executable, Statistics -> Laboratory] Sửa lỗi chức năng lấy mẫu xét nghiệm cảnh báo sai các chỉ định cận lâm sàng có phát sinh chi phí chênh lệch nhưng đã thu tiền viện phí gộp (BV ĐK Số 10), đồng bộ ẩn nhóm trợ giúp Help khi DHHIS_BANQUYEN = 1.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1072
+- 📗: Độc lập 100% CSDL PostgreSQL `an_so10_xn_29102026`.
+- 📕: Bổ sung điều kiện kiểm tra `dathu = 0` khi lọc các dòng `chenhlech > 0 AND soctvpcl = ''` trong `CheckLayMau`, đảm bảo không phát sinh cảnh báo đóng tiền sai đối với bệnh nhân BHYT có chênh lệch đã thanh toán đầy đủ qua biên lai gộp `soctvp`.
+- Thực hiện theo mô tả [Sửa lỗi Laboratory chức năng lấy mẫu CLS cảnh báo sai CLS đã thu tiền](../../Mo-ta-he-thong/XETNGHIEM/Mo-ta-sua-loi-laboratory-canh-bao-cls-da-thu-tien.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1072/debug-image-laboratory-frmdanhsach-laymau.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1072/debug-image-laboratory-frmmain-fullflow.png)
+![](https://i.vgy.me/ji0OMu.png)
+
 ## [v.3.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32610090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bổ sung lại mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị MaBVBH
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
