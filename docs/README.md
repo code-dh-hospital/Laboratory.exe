@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Mở rộng tham số hệ thống cks.ketquacls bổ sung giá trị 2 (tự động ký số khi lưu kết quả) trong diễn giải cấu hình hệ thống FrmMain2; tích hợp tự động ký số kết quả xét nghiệm từ FrmXetNghiem (Utilities.Executable) và HOSO.KqXetNghiem (DH.XML4750).
+- 🐛: Khắc phục việc kỹ thuật viên xét nghiệm phải mở menu ngữ cảnh 'Ký số SoftDream' thủ công sau khi nhập và lưu kết quả xét nghiệm.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/990
+- 📗: Cập nhật tài liệu đặc tả hệ thống [Mo-ta-YEUCAU-Issue-990-Tu-Dong-Ky-So-Chi-Dinh-CLS.md](../../Mo-ta-he-thong/Chu-ky-so/Mo-ta-YEUCAU-Issue-990-Tu-Dong-Ky-So-Chi-Dinh-CLS.md).
+- 📕: Cấu hình cks.ketquacls = 2 trên phân hệ Xét nghiệm tự động ký số kết quả xét nghiệm và giữ form mở để người dùng kiểm tra trước khi đóng.
+
 ## [v.3.26.1102.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [Utilities.Executable, Statistics -> Laboratory] Sửa lỗi chức năng lấy mẫu xét nghiệm cảnh báo sai các chỉ định cận lâm sàng có phát sinh chi phí chênh lệch nhưng đã thu tiền viện phí gộp (BV ĐK Số 10), đồng bộ ẩn nhóm trợ giúp Help khi DHHIS_BANQUYEN = 1.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1072
