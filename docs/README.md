@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.26.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Bổ sung ánh xạ phieutruyenmau.ngay_xn vào mục "Hồi ... giờ ... ngày ... tháng ... năm ..." trên phiếu truyền máu khi xem/in từ FrmKetQuaTruyenMau.
+- ☑: [hdhiswork/YEUCAU#1017](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1017)
+- 📗: Utilities.Executable/Forms/Laboratory/FrmKetQuaTruyenMau.cs, DH.ReportCLS/KetQua/XN_Xtra/XtraPhieuTruyenMau_Design.Designer.cs
+- 📕: Đồng bộ dữ liệu thời gian xét nghiệm trả kết quả lên mẫu in phiếu truyền máu.
+- 🐛: Khắc phục 3 lỗi trên FrmKetQuaTruyenMau và trang in phiếu truyền máu: mở khóa nút tự thiết kế cho tài khoản admin khi fallback mẫu mặc định, bỏ mã nhân viên trước họ tên người làm xét nghiệm khi in, cân chỉnh đều dòng chấm nhận xét trên XtraPhieuTruyenMau_Design và khóa các control nhập liệu sau khi lưu kết quả.
+- ☑: [hdhiswork/YEUCAU#1017](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1017)
+- 📗: Utilities.Executable/Forms/Laboratory/FrmKetQuaTruyenMau.cs, DH.ReportCLS/KetQua/XN_Xtra/XtraPhieuTruyenMau_Design
+- 📕: Đảm bảo quy trình trả kết quả, chỉnh sửa và xem/thiết kế phiếu truyền máu chuẩn xác.
+- ✨: Bổ sung xác nhận thiết kế lại trang in phiếu truyền máu theo mẫu chuẩn ("Anh/Chị có muốn thiết kế lại trang in.?") cho tài khoản ClsDangNhap.Taikhoan có quyền admin và cơ chế fallback nạp mẫu mặc định khi chưa có thiết kế trong CSDL.
+- 🐛: Khắc phục lỗi in phiếu truyền máu (Chưa có thiết kế trang in) khi tài khoản admin mở xem trước do nhầm lẫn tài khoản thực hiện; truyền đúng tài khoản đăng nhập từ FrmDanhSachMau sang FrmKetQuaTruyenMau.
+- ☑: [hdhiswork/YEUCAU#1017](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1017)
+- 📗: Sử dụng XtraRPT.XtraDesign.XRptDesignWithDefault cho quản trị viên thiết kế mẫu PhieuTruyenMau_Design và fallback nạp trực tiếp XtraPhieuTruyenMau_Design khi CSDL chưa có dữ liệu current.xtrareports.
+- 📕: Kiểm tra quyền quản trị dựa trên tài khoản đăng nhập (ClsDangNhap.Taikhoan == "admin", QuyenAdmin, QuyenUserInAdminGroup) để hiển thị hộp thoại xác nhận thiết kế trang in.
+- ✨: Tích hợp dữ liệu truyền máu LIS - HIS: mở rộng lấy y lệnh máu kho 'MU', hỗ trợ API Phần I và quản lý phiếu truyền máu tự thiết kế từ phân hệ Xét nghiệm.
+- 🐛: Cập nhật đồng bộ các thư viện liên quan: DH.LIS, Utilities.Executable phục vụ trả kết quả và in phiếu truyền máu.
+- ☑: [hdhiswork/YEUCAU#1017](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1017)
+- 📗: Bổ sung bảng current.phieutruyenmau và liên kết trạng thái thực hiện với current.chidinhcls.
+- 📕: Từ danh sách chỉ định máu (FrmDanhSachMau), kiểm tra ekip trực và mở FrmKetQuaTruyenMau xem, cập nhật kết quả và in phiếu truyền máu.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1017/debug-image-laboratory-frmdanhsachmau-nutphieutruyenmau.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1017/debug-image-laboratory-frmketquatruyenmau-nhaplieuphan1.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1017/debug-image-laboratory-frmdanhsachmau-doimau-dathuchien.jpg)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1017/debug-image-laboratory-frmketquatruyenmau-xem-phieutruyenmau.jpg)
+
 ## [v.3.26.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FDHLaboratoryexe%2F32611120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Mở rộng tham số hệ thống cks.ketquacls bổ sung giá trị 2 (tự động ký số khi lưu kết quả) trong diễn giải cấu hình hệ thống FrmMain2; tích hợp tự động ký số kết quả xét nghiệm từ FrmXetNghiem (Utilities.Executable) và HOSO.KqXetNghiem (DH.XML4750).
 - 🐛: Khắc phục việc kỹ thuật viên xét nghiệm phải mở menu ngữ cảnh 'Ký số SoftDream' thủ công sau khi nhập và lưu kết quả xét nghiệm.
